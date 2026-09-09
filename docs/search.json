@@ -4,6 +4,20 @@
     "href": "index.html",
     "title": "Luke Meredith",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "PhD Researcher in Mathematics at the University of Warwick.\nMy research focuses on stochastic interacting systems, Markov chains, opinion dynamics and social learning."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Luke Meredith",
+    "section": "Research interests",
+    "text": "Research interests\n\nMarkov chains and mixing times\nInteracting particle systems\nOpinion dynamics\nMean-field stochastic systems\nMulti-agent learning\nStochastic multi-armed bandits"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Luke Meredith",
+    "section": "Current research",
+    "text": "Current research\nI am currently interested in the relationship between microscopic stochastic dynamics and macroscopic behaviour, particularly phase transitions, metastability and critical slowing."
   }
 ]
