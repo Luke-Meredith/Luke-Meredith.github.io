@@ -11,14 +11,21 @@
     "href": "index.html#research",
     "title": "Luke Meredith",
     "section": "Research",
-    "text": "Research\n\n\nOpinion dynamics\nMetastability, phase transitions, and mixing in nonlinear models of social interaction.\n\n\nSocial learning and bandits\nHow agents can use information from neighbours to improve learning and reduce regret."
+    "text": "Research\n\n\nOpinion dynamics\nI study stochastic models of opinion formation and collective behaviour, with a particular focus on mixing times, metastability, and phase transitions.\nMy recent work considers nonlinear majority-based dynamics with stubborn agents and the way changes in model parameters produce qualitatively different long-run behaviour.\nRead more →\n\n\nSocial learning and multi-armed bandits\nI am interested in how agents can use information from their neighbours to learn efficiently in stochastic environments.\nMy current work studies multi-agent stochastic bandit systems on networks, with the aim of understanding when simple social-learning mechanisms can improve learning speed and reduce regret.\nRead more →"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Luke Meredith",
     "section": "About",
-    "text": "About\nMy research focuses on how microscopic stochastic interactions give rise to macroscopic collective behaviour. I am particularly interested in mixing times, metastability, mean-field limits, and multi-agent learning."
+    "text": "About\nMy research lies at the intersection of probability, stochastic processes, and interacting systems.\nI am particularly interested in how simple microscopic interaction rules lead to macroscopic phenomena such as consensus, metastability, phase transitions, and critical slowing. My work uses tools from Markov chains, mean-field approximations, stochastic processes, and asymptotic analysis."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Luke Meredith",
+    "section": "Research interests",
+    "text": "Research interests\n\nMarkov chains and mixing times\nStochastic interacting systems\nOpinion dynamics on graphs\nMean-field limits\nMetastability and hitting times\nMulti-agent learning\nStochastic multi-armed bandits"
   },
   {
     "objectID": "index.html#links",

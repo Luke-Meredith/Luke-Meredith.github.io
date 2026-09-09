@@ -3,7 +3,9 @@ title: ""
 page-layout: full
 ---
 
-::: {.hero}
+::: {.hero-grid}
+
+::: {.hero-text}
 
 # Luke Meredith
 
@@ -15,8 +17,12 @@ PhD researcher in Mathematics at the University of Warwick, working on stochasti
 
 :::
 
-::: {.text-center}
-![Portrait of Luke Meredith](images/website_photo.jpg){width=300px}
+::: {.hero-photo}
+
+![](images/website_photo.jpg){width=280px}
+
+:::
+
 :::
 
 ## Research
@@ -24,22 +30,46 @@ PhD researcher in Mathematics at the University of Warwick, working on stochasti
 ::: {.research-grid}
 
 ::: {.research-card}
+
 ### Opinion dynamics
 
-Metastability, phase transitions, and mixing in nonlinear models of social interaction.
+I study stochastic models of opinion formation and collective behaviour, with a particular focus on mixing times, metastability, and phase transitions.
+
+My recent work considers nonlinear majority-based dynamics with stubborn agents and the way changes in model parameters produce qualitatively different long-run behaviour.
+
+[Read more →](research.qmd)
+
 :::
 
 ::: {.research-card}
-### Social learning and bandits
 
-How agents can use information from neighbours to improve learning and reduce regret.
+### Social learning and multi-armed bandits
+
+I am interested in how agents can use information from their neighbours to learn efficiently in stochastic environments.
+
+My current work studies multi-agent stochastic bandit systems on networks, with the aim of understanding when simple social-learning mechanisms can improve learning speed and reduce regret.
+
+[Read more →](research.qmd)
+
 :::
 
 :::
 
 ## About
 
-My research focuses on how microscopic stochastic interactions give rise to macroscopic collective behaviour. I am particularly interested in mixing times, metastability, mean-field limits, and multi-agent learning.
+My research lies at the intersection of probability, stochastic processes, and interacting systems.
+
+I am particularly interested in how simple microscopic interaction rules lead to macroscopic phenomena such as consensus, metastability, phase transitions, and critical slowing. My work uses tools from Markov chains, mean-field approximations, stochastic processes, and asymptotic analysis.
+
+## Research interests
+
+- Markov chains and mixing times
+- Stochastic interacting systems
+- Opinion dynamics on graphs
+- Mean-field limits
+- Metastability and hitting times
+- Multi-agent learning
+- Stochastic multi-armed bandits
 
 ## Links
 
