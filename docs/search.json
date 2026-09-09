@@ -4,20 +4,27 @@
     "href": "index.html",
     "title": "Luke Meredith",
     "section": "",
-    "text": "PhD Researcher in Mathematics at the University of Warwick.\nMy research focuses on stochastic interacting systems, Markov chains, opinion dynamics and social learning."
+    "text": "PhD researcher in Mathematics at the University of Warwick, working on stochastic systems, Markov chains, opinion dynamics, and social learning."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
     "title": "Luke Meredith",
-    "section": "Research interests",
-    "text": "Research interests\n\nMarkov chains and mixing times\nInteracting particle systems\nOpinion dynamics\nMean-field stochastic systems\nMulti-agent learning\nStochastic multi-armed bandits"
+    "section": "Research",
+    "text": "Research\n\n\nOpinion dynamics\nMetastability, phase transitions, and mixing in nonlinear models of social interaction.\n\n\nSocial learning and bandits\nHow agents can use information from neighbours to improve learning and reduce regret."
   },
   {
-    "objectID": "index.html#current-research",
-    "href": "index.html#current-research",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
     "title": "Luke Meredith",
-    "section": "Current research",
-    "text": "Current research\nI am currently interested in the relationship between microscopic stochastic dynamics and macroscopic behaviour, particularly phase transitions, metastability and critical slowing."
+    "section": "About",
+    "text": "About\nMy research focuses on how microscopic stochastic interactions give rise to macroscopic collective behaviour. I am particularly interested in mixing times, metastability, mean-field limits, and multi-agent learning."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Luke Meredith",
+    "section": "Links",
+    "text": "Links\nResearch · Publications · CV"
   }
 ]

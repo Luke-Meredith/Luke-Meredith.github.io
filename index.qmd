@@ -1,24 +1,46 @@
 ---
-title: "Luke Meredith"
+title: ""
 page-layout: full
 ---
 
-PhD Researcher in Mathematics at the University of Warwick.
+::: {.hero}
 
-My research focuses on stochastic interacting systems, Markov chains,
-opinion dynamics and social learning.
+# Luke Meredith
 
-## Research interests
+<div class="hero-subtitle">
 
-- Markov chains and mixing times
-- Interacting particle systems
-- Opinion dynamics
-- Mean-field stochastic systems
-- Multi-agent learning
-- Stochastic multi-armed bandits
+PhD researcher in Mathematics at the University of Warwick, working on stochastic systems, Markov chains, opinion dynamics, and social learning.
 
-## Current research
+</div>
 
-I am currently interested in the relationship between microscopic
-stochastic dynamics and macroscopic behaviour, particularly phase
-transitions, metastability and critical slowing.
+:::
+
+::: {.text-center}
+![Portrait of Luke Meredith](images/website_photo.jpg){width=300px}
+:::
+
+## Research
+
+::: {.research-grid}
+
+::: {.research-card}
+### Opinion dynamics
+
+Metastability, phase transitions, and mixing in nonlinear models of social interaction.
+:::
+
+::: {.research-card}
+### Social learning and bandits
+
+How agents can use information from neighbours to improve learning and reduce regret.
+:::
+
+:::
+
+## About
+
+My research focuses on how microscopic stochastic interactions give rise to macroscopic collective behaviour. I am particularly interested in mixing times, metastability, mean-field limits, and multi-agent learning.
+
+## Links
+
+[Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd)
